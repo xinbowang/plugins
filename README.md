@@ -1,5 +1,5 @@
-## 简单的单页面应用-类似插件库页面：jquery.history.js来监测hash变化，显示不同内容。
-## *使用说明 - 由于使用gulp-rev做版本控制需先修改下面对应文件库文件后，执行npm run build 或 npm start
+### 简单的单页面应用-类似插件库页面：jquery.history.js来监测hash变化，显示不同内容。
+### *使用说明 - 由于使用gulp-rev做版本控制需先修改下面对应文件库文件后，执行npm run build 或 npm start
  由于添加了版本号信息，所以需要先手动更改依赖版本号文件：gulp-rev和gulp-rev-collector(重要)
  ``` javascript
  1.打开node_modules\gulp-rev\index.js
